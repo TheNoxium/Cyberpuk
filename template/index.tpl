@@ -1,1 +1,1 @@
- Hello {$name}, welcome to Smarty! {$name} ты пидор
+ Hello {$name}, welcome to Smarty! {$name} ты пидорfcbr

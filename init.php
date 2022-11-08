@@ -7,7 +7,7 @@ define( 'LIBS_DIR', ROOT . '/libs' );
 define( 'TEMPLATE_DIR', ROOT . '/template' );
 
 
-include_once( ROOT . '/config.php');
+//include_once( ROOT . '/config.php');
 include_once( CORE_DIR . '/functions.php');
 include_once( LIBS_DIR . '/smarty/smarty.class.php');
 include_once( LIBS_DIR . '/redbean/rb-mysql.php');

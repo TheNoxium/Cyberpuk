@@ -1,5 +1,18 @@
 <?php
 
-$conn = new mysqli("localhost", "root", "", "cyberpuk"); 
+$config - [
+
+      'data' => [
+        'host' => 'localhost',
+        'name' => 'cyberpuk',
+        'user' => 'root',
+        'pasword' => ''
+     ],
+
+
+];
+
+//$conn = new mysqli("localhost", "root", "", "cyberpuk"); 
+
 
 ?>
